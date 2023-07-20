@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3CA55D91-5426-4D70-B712-A867AAD56F19}|Default">
+  <MonoDevelop.Ide.ItemProperties.InheritanceEncapsulation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InheritanceEncapsulation/Program.cs">
+    <Files>
+      <File FileName="InheritanceEncapsulation/Program.cs" Line="4" Column="8" />
+      <File FileName="InheritanceEncapsulation/CustomMath.cs" Line="63" Column="19" />
+      <File FileName="InheritanceEncapsulation/Controllers/CustomMathController.cs" Line="92" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InheritanceEncapsulation" expanded="True">
+            <Node name="InheritanceEncapsulation" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

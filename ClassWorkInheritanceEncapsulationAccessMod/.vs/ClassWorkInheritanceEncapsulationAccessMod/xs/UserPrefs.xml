@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{85796A74-0ED4-452E-AC1B-7F8232117379}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassWorkInheritanceEncapsulationAccessMod/Program.cs">
+    <Files>
+      <File FileName="ClassWorkInheritanceEncapsulationAccessMod/Program.cs" Line="18" Column="1" />
+      <File FileName="ClassWorkInheritanceEncapsulationAccessMod/Models/Animal.cs" Line="19" Column="32" />
+      <File FileName="ClassWorkInheritanceEncapsulationAccessMod/Models/Bird.cs" Line="9" Column="46" />
+      <File FileName="ClassWorkInheritanceEncapsulationAccessMod/Models/Cat.cs" Line="16" Column="9" />
+      <File FileName="ClassWorkInheritanceEncapsulationAccessMod/Models/Car.cs" Line="25" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassWorkInheritanceEncapsulationAccessMod" expanded="True">
+            <Node name="ClassWorkInheritanceEncapsulationAccessMod" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ClassWorkInheritanceEncapsulationAccessMod PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
